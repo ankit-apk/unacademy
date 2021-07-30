@@ -30,7 +30,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Expanded(child: Icon(Icons.menu)),
           ],
         ),
-        title: Text("IIT JEE"),
+        title: Text("Engineering"),
         actions: [
           Icon(
             Icons.search,
